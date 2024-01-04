@@ -13,8 +13,6 @@ The task for the internship assignment involves Java Programming Tasks
 4. write a basic CRUD application:  Develop a basic CRUD application that allows users to perfrom CRUD operations
 5. Create Basic calculator using interface concept from java
 
-
-
 ## Getting Started
 
 ### Prerequisites
@@ -24,9 +22,6 @@ The task for the internship assignment involves Java Programming Tasks
 1. Clone this repository using `git clone https://github.com/WhoisSwitchX/EliteTechFusion.git`.
 2. Compile the Java files using `javac programName.java utils.java`.
 3. Run the program using `java main`.
-
-## Acknowledgments
-- Mention any resources, articles, or tutorials that you found helpful during the assignment.
 
 ## Contact Information
 For any questions or concerns regarding this assignment, feel free to contact:
