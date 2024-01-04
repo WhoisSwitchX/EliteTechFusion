@@ -21,7 +21,7 @@ The task for the internship assignment involves Java Programming Tasks
 ### Installation
 1. Clone this repository using `git clone https://github.com/WhoisSwitchX/EliteTechFusion.git`.
 2. Compile the Java files using `javac programName.java utils.java`.
-3. Run the program using `java main`.
+3. Run the program using `java programName`.
 
 ## Contact Information
 For any questions or concerns regarding this assignment, feel free to contact:
