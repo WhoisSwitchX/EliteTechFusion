@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+ 
 public class CRUDApplication {
     static List<Person> peopleList = new ArrayList<>();
     static Scanner scanner = new Scanner(System.in);
