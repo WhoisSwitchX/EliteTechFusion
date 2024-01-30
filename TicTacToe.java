@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TicTacToe {
     private static char[][] board = new char[3][3];
     private static char currentPlayer = 'X';
-
+ 
     public static void main(String[] args) {
         initializeBoard();
         displayBoard();
