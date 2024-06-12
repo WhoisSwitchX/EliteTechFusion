@@ -11,7 +11,7 @@ public class TemperatureConverter {
         System.out.println("1. Fahrenheit to Celsius");
         System.out.println("2. Celsius to Fahrenheit");
 
-        int choice = scanner.nextInt();
+        int choice = scanner.nextInt(); 
 
         if (choice == 1) {
             System.out.println("Enter temperature in Fahrenheit:");
