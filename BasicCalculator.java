@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
   
-// Calculator interface
+// Calculator interface 
 interface Calculator {
     double add(double num1, double num2);
     double subtract(double num1, double num2);
