@@ -8,7 +8,7 @@ interface Calculator {
     double multiply(double num1, double num2);
     double divide(double num1, double num2);
 }
- 
+  
 // Calculator implementation
 class CalculatorImpl implements Calculator {
     @Override
